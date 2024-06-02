@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _2_4_FlagsApp
-build_property.ProjectDir = \\Mac\Home\Desktop\MS539 Code\2-4_FlagsApp\2-4_FlagsApp\
+build_property.ProjectDir = \\Mac\Home\Desktop\MS539 Code\repo\2-4_FlagsApp\2-4_FlagsApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

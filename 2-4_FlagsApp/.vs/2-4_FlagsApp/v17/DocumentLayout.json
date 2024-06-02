@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\MS539 Code\\repo\\2-4_FlagsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96AA48FA-8207-4457-826D-18DDE15B7F7E}|2-4_FlagsApp\\2-4_FlagsApp.csproj|\\\\mac\\home\\desktop\\ms539 code\\repo\\2-4_flagsapp\\2-4_flagsapp\\form_flags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AA48FA-8207-4457-826D-18DDE15B7F7E}|2-4_FlagsApp\\2-4_FlagsApp.csproj|\\\\mac\\home\\desktop\\ms539 code\\repo\\2-4_flagsapp\\2-4_flagsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AA48FA-8207-4457-826D-18DDE15B7F7E}|2-4_FlagsApp\\2-4_FlagsApp.csproj|\\\\mac\\home\\desktop\\ms539 code\\repo\\2-4_flagsapp\\2-4_flagsapp\\form_flags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\arm64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\MS539 Code\\repo\\2-4_FlagsApp\\2-4_FlagsApp\\Program.cs",
+              "RelativeDocumentMoniker": "2-4_FlagsApp\\Program.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\MS539 Code\\repo\\2-4_FlagsApp\\2-4_FlagsApp\\Program.cs",
+              "RelativeToolTip": "2-4_FlagsApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:21:05.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\arm64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\arm64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAABwNAAAAAAAAAAAowDkNAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-02T18:19:37.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form_Flags.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\MS539 Code\\repo\\2-4_FlagsApp\\2-4_FlagsApp\\Form_Flags.cs",
+              "RelativeDocumentMoniker": "2-4_FlagsApp\\Form_Flags.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\MS539 Code\\repo\\2-4_FlagsApp\\2-4_FlagsApp\\Form_Flags.cs [Design]",
+              "RelativeToolTip": "2-4_FlagsApp\\Form_Flags.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:13:38.019Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_Flags.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\MS539 Code\\repo\\2-4_FlagsApp\\2-4_FlagsApp\\Form_Flags.cs",
+              "RelativeDocumentMoniker": "2-4_FlagsApp\\Form_Flags.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\MS539 Code\\repo\\2-4_FlagsApp\\2-4_FlagsApp\\Form_Flags.cs",
+              "RelativeToolTip": "2-4_FlagsApp\\Form_Flags.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:05:28.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

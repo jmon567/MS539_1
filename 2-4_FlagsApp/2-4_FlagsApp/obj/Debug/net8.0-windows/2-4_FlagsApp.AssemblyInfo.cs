@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2-4_FlagsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78e8041e8cb3eddfd3f0b2fccd7e3f5650de2d15")]
 [assembly: System.Reflection.AssemblyProductAttribute("2-4_FlagsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2-4_FlagsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

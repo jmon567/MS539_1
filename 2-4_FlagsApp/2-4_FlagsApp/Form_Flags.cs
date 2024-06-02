@@ -7,19 +7,31 @@ namespace _2_4_FlagsApp
             InitializeComponent();
         }
 
-        private void picture_finland_Click(object sender, EventArgs e)
+        private void InitializeComponent()
         {
-            label_country.Text = "Finland";
+
         }
 
-        private void picture_france_Click(object sender, EventArgs e)
-        {
-            label_country.Text = "France";
-        }
 
-        private void pictureBox3_Click(object sender, EventArgs e)
-        {
-            label_country.Text = "Germany";
-        }
+
+
+        /*  
+  private void picture_finland_Click(object sender, EventArgs e)
+  {
+     label_country.Text = "Finland";
+  }
+
+  private void picture_france_Click(object sender, EventArgs e)
+  {
+     label_country.Text = "France";
+  }
+
+  private void pictureBox3_Click(object sender, EventArgs e)
+  {
+     label_country.Text = "Germany";
+  } */
+
+
+
     }
 }
