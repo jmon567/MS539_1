@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             button_start = new Button();
             button_stop = new Button();
             progressBar_StartStop = new ProgressBar();
@@ -35,13 +36,16 @@
             checkBox_enablePrompt = new CheckBox();
             panel1 = new Panel();
             button_newForm2 = new Button();
+            errorProvider1 = new ErrorProvider(components);
+            numericUpDown_max20 = new NumericUpDown();
             panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)errorProvider1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numericUpDown_max20).BeginInit();
             SuspendLayout();
             // 
             // button_start
             // 
             button_start.BackColor = Color.Lime;
-            button_start.Enabled = false;
             button_start.Font = new Font("Segoe Print", 16.125F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button_start.Location = new Point(13, 48);
             button_start.Name = "button_start";
@@ -54,7 +58,6 @@
             // button_stop
             // 
             button_stop.BackColor = Color.FromArgb(255, 128, 128);
-            button_stop.Enabled = false;
             button_stop.Font = new Font("Segoe Print", 16.125F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button_stop.Location = new Point(472, 48);
             button_stop.Name = "button_stop";
@@ -111,11 +114,24 @@
             button_newForm2.UseVisualStyleBackColor = true;
             button_newForm2.Click += button_newForm2_Click;
             // 
+            // errorProvider1
+            // 
+            errorProvider1.ContainerControl = this;
+            // 
+            // numericUpDown_max20
+            // 
+            numericUpDown_max20.Location = new Point(439, 202);
+            numericUpDown_max20.Name = "numericUpDown_max20";
+            numericUpDown_max20.Size = new Size(240, 39);
+            numericUpDown_max20.TabIndex = 7;
+            numericUpDown_max20.Validating += numericUpDown_max20_Validating;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1733, 1114);
+            Controls.Add(numericUpDown_max20);
             Controls.Add(button_newForm2);
             Controls.Add(panel1);
             Controls.Add(checkBox_enablePrompt);
@@ -124,6 +140,8 @@
             Name = "Form1";
             Text = "Form1";
             panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)errorProvider1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numericUpDown_max20).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -137,5 +155,7 @@
         private CheckBox checkBox_enablePrompt;
         private Panel panel1;
         private Button button_newForm2;
+        private ErrorProvider errorProvider1;
+        private NumericUpDown numericUpDown_max20;
     }
 }
